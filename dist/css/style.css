@@ -1,0 +1,28 @@
+.news {
+  width: 500px;
+  margin: 20px;
+  border: 1px solid #9e9e9e;
+}
+
+.news img {
+  width: 100%;
+}
+
+.news h2 {
+  padding: 10px;
+}
+
+.news p {
+  padding: 10px;
+}
+
+.news p.bg-grey {
+  color: wheat;
+  background-color: grey;
+}
+
+.news h2.bg-grey-mt-20 {
+  color: wheat;
+  background-color: grey;
+}
+/*# sourceMappingURL=style.css.map */

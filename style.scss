@@ -1,0 +1,30 @@
+
+
+.news {
+    width: 500px;
+    margin: 20px;
+    border: 1px solid #9e9e9e;
+
+    img {
+        width: 100%;
+    }
+
+    h2 {
+        padding: 10px;
+    }
+
+    p {
+        padding: 10px;
+    }
+
+    p.bg-grey {
+        color: wheat;
+        background-color: grey;
+    }
+
+    h2.bg-grey-mt-20 {
+        color: wheat;
+        background-color: grey;
+    }
+}
+
